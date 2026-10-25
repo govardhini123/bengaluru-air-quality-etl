@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+raw_aq_*.json
+clean_aq.csv
+pipeline_log.txt
